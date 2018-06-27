@@ -1,0 +1,43 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "name": "БВ8626",
+      "departureDestination": "Plovdiv",
+      "arrivalDestination": "Sofia",
+      "totalSeats": 80,
+      "reservedSeats": 60,
+      "departureTime": 1529588504947,
+      "arrivalTime": 1529588504947,
+      "confirmed": true,
+      "wagons": [
+        {
+          "wagonClass": "passenger",
+          "seats": 15,
+          "type": "hotseat"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "ББ2816",
+      "departureDestination": "Plovdiv",
+      "arrivalDestination": "Ruse",
+      "totalSeats": 80,
+      "reservedSeats": 60,
+      "departureTime": 1529588504947,
+      "arrivalTime": 1529588504947,
+      "confirmed": true,
+      "wagons": [
+        {
+          "wagonClass": "passenger",
+          "seats": 15,
+          "type": "hotseat"
+        }
+      ]
+    }
+  ],
+
+  "wagons": []
+}

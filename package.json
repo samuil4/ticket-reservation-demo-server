@@ -1,0 +1,16 @@
+{
+  "name": "ticket-reservation-demo-server",
+  "version": "1.0.0",
+  "description": "Demo data for testing",
+  "main": "index.js",
+  "repository": "git@github.com:samuil4/ticket-reservation-demo-server.git",
+  "author": "Samuil Gospodinov",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

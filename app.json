@@ -1,15 +1,10 @@
 {
   "name": "ticket-reservation-demo-server",
   "scripts": {
+    "start": "json-server --watch db.json"
   },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-
-  ]
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": []
 }
