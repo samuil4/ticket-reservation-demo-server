@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server --port 80 --watch db.json"
   },
   "dependencies": {
     "json-server": "^0.14.0"
